@@ -7,5 +7,3 @@ let random = Math.floor(Math.random()*10) + 1;
 let mod = 16 % 6;
 
 let max = Math.max(1,4,6,20);
-
-
